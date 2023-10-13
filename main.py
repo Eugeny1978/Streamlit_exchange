@@ -66,7 +66,7 @@ if state_checkbox:
     st.write('Вы нажали ЧекБокс в положение ВКЛ')
 else:
     st.write('ЧекБокс в положении ВЫКЛ')
-
+print('hell')
 
 
 
