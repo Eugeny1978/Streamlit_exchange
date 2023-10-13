@@ -92,6 +92,7 @@ st.write(multi_select)
 
 
 
+
 st.markdown("---" ) # разделительная линия
 st.caption('Это подпись. Автор Luchnik78')
 
